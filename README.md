@@ -1,2 +1,4 @@
-lymaconsulting.github.io
-========================
+LymaConsulting
+==============
+
+Lyma Consulting Site
